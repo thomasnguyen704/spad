@@ -1,0 +1,42 @@
+* {
+	font-family: 'Open Sans', sans-serif !important;
+}
+.navbar {
+	border-radius: 0 !important;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #eee;
+}
+.vCenter {
+	padding: 5% 0 25% 0;
+}
+.jumbotron {
+	min-width: 100vw;
+	min-height: 100vh;
+	color: grey;
+}
+#about {
+	margin: 10% 0 10% 0;
+}
+#people {
+	background-color: white;
+	color: grey;
+	padding: 5% 0 10% 0;
+}
+#projects {
+	background-color: white;
+	padding: 5% 0 10% 0;
+}
+.well{
+	background-color: white;
+}
+.well img {
+	margin-bottom: 10px;
+	width: 100%;
+}
+footer {
+	padding: 5% 0 20% 0;
+	background-color: tan;
+	color: white;
+}
